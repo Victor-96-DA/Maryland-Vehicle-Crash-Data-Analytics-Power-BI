@@ -5,8 +5,8 @@
 ### Project Overview
 An in-depth analysis of 46,000+ unique vehicle crashes in Maryland 
 (January 2020 - October 2024) using Power BI. This project uncovers 
-surprising root causes behind Maryland road crashes, challenges common 
-assumptions and delivers actionable road safety recommendations.
+unconventional root causes behind Maryland road crashes, challenges common 
+assumptions and delivers actionable road safety recommendations to avoid future potential crashes.
 
 ### Dashboard Preview
 ### Page 1 — Crash Overview
@@ -26,33 +26,39 @@ assumptions and delivers actionable road safety recommendations.
 ### Tools & Technologies
 - **Power BI** — Dashboard and visualizations
 - **Power Query** — Data cleaning and transformation
-- **DAX** — Measures and calculations
+- **DAX** — Measures and custom calculations
 - **Data Modelling** — Relationships and date table
 
 ### Project Stages
 1. **Data Collection** — Maryland crash reporting dataset
-2. **Data Cleaning** — Power Query transformations
-3. **Data Transformation** — DAX measures and date intelligence
-4. **Data Modelling** — Relationships between tables
-5. **Dashboard Generation** — Interactive Power BI visuals
+2. **Data Cleaning** — Power Query transformations ("Identifying and removing duplicates", 
+"Replacing "N/A" values with "Unknown" for easy readability and smooth categorization",
+"Filtering out blanks value with many corresponding missing values wth no relevance to the analysis",
+"Splitting of Date Time column into separate Date, Time and Crash Hour columns",
+"Standardizing inconsistent data by re-writing entries that refer to the same thing but written differently",
+"Standardizing data formats")
+4. **Data Transformation** — DAX measures and date intelligence
+5. **Data Modelling** — Relationships between tables
+6. **Dashboard Generation** — Interactive Power BI visuals
 
 ### Key Findings
 What if everything you assumed about vehicle crashes was wrong?
 
 | Assumption | Reality |
 |------------|---------|
-| Bad weather causes crashes | 70% happened in **clear dry conditions** |
-| Night driving is dangerous | **Daylight** had highest crashes |
-| Drunk driving is main cause | Majority had **no substance detected** |
-| Overspeeding causes crashes | Most happened at **35mph** |
+| Bad weather?| 70% happened in **clear dry conditions** |
+| Could be Night Driving? | **Daylight** had highest crashes |
+| Drunk driving possibly? | Majority had **no substance detected** |
+| Overspeeding? | Most happened at **35mph** |
 
 ### Root Cause
 **Traffic Management** is the real cause:
 - 21K crashes at locations with **no traffic controls**
-- Peak hours **3PM - 5PM**
+- Peak hours **3PM - 5PM** 
 - **Fridays** most dangerous day
 - **Same Direction Rear End** highest collision type
 - **Moving Constant Speed** highest vehicle movement
+- **Passenger Cars** the highest vehicle body type
 
 ### Recommendations
 1. Investigate top roads with highest crashes and no traffic controls
