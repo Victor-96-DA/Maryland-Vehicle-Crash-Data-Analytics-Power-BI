@@ -16,8 +16,13 @@ assumptions and delivers actionable road safety recommendations.
 ![Page 2](Behind_the_Crashes_Dashboard.png)
 
 ### Dataset
-[Download Raw Dataset](https://drive.google.com/file/d/1CEgXfwrb68FMdkcVuyVXrW46zvXtegKc/view?usp=drive_link)
+| Version | Download |
+|---------|----------|
+| **Raw Data** | [Download Raw Dataset](https://drive.google.com/file/d/1CEgXfwrb68FMdkcVuyVXrW46zvXtegKc/view?usp=drive_link)|
+| **Cleaned Data** | [Download Cleaned Dataset](https://drive.google.com/file/d/1H7pquIFKPL1n2yuEzOUYw3hic3tg0tm6/view?usp=drive_link) |
 
+> Raw data was cleaned and transformed using Power Query 
+> before analysis. Cleaning steps are embedded in the .pbix file.
 ### Tools & Technologies
 - **Power BI** — Dashboard and visualizations
 - **Power Query** — Data cleaning and transformation
