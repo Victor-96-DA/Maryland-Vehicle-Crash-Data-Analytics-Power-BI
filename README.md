@@ -31,15 +31,16 @@ assumptions and delivers actionable road safety recommendations to avoid future 
 
 ### Project Stages
 1. **Data Collection** — Maryland crash reporting dataset
-2. **Data Cleaning** — Power Query transformations ("Identifying and removing duplicates", 
-"Replacing "N/A" values with "Unknown" for easy readability and smooth categorization",
-"Filtering out blanks value with many corresponding missing values wth no relevance to the analysis",
-"Splitting of Date Time column into separate Date, Time and Crash Hour columns",
-"Standardizing inconsistent data by re-writing entries that refer to the same thing but written differently",
-"Standardizing data formats")
-4. **Data Transformation** — DAX measures and date intelligence
-5. **Data Modelling** — Relationships between tables
-6. **Dashboard Generation** — Interactive Power BI visuals
+2. **Data Cleaning** — Power Query transformations
+   (Identifying and removing duplicates, 
+    Replacing "N/A" values with "Unknown" for easy readability and smooth categorization,
+    Filtering out blanks value with many corresponding missing values wth no relevance to the analysis,
+    Splitting of Date Time column into separate Date, Time and Crash Hour columns,
+    Standardizing inconsistent data by re-writing entries that refer to the same thing but written differently,
+    Standardizing data formats)
+3. **Data Transformation** — DAX measures and date intelligence
+4. **Data Modelling** — Relationships between tables
+5. **Dashboard Generation** — Interactive Power BI visuals
 
 ### Key Findings
 What if everything you assumed about vehicle crashes was wrong?
