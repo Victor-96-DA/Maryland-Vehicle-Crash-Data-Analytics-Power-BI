@@ -2,7 +2,7 @@
 
 ![Dashboard](Crash_Overview_Dashboard.png)
 
-## Project Overview
+### Project Overview
 An in-depth analysis of 46,000+ unique vehicle crashes in Maryland 
 (January 2020 - October 2024) using Power BI. This project uncovers 
 surprising root causes behind Maryland road crashes, challenges common 
@@ -15,7 +15,7 @@ assumptions and delivers actionable road safety recommendations.
 ### Page 2 — Behind the Crashes
 ![Page 2](Behind_the_Crashes_Dashboard.png)
 
-## Data Source
+### Data Source
 - **Source:** Maryland Crash Reporting Dataset
 - **Period:** January 2020 — October 2024
 - **Records:** 46,000+ unique crashes
@@ -64,5 +64,4 @@ What if everything you assumed about vehicle crashes was wrong?
 4. Interact with the dashboard using year slicer ✅
 
 ## Connect With Me
-- **LinkedIn:** [Your LinkedIn URL]
-- **GitHub:** [Your GitHub URL]
+- **LinkedIn:** [https://www.linkedin.com/in/victor-olatunji-b62a6a3bb/]
