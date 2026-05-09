@@ -8,6 +8,9 @@ An in-depth analysis of 46,000+ unique vehicle crashes in Maryland
 unconventional root causes behind Maryland road crashes, challenges common 
 assumptions and delivers actionable road safety recommendations to avoid future potential crashes.
 
+## About
+Created by **Victor Olatunji**
+
 ### Dashboard Preview
 ### Page 1 — Crash Overview
 ![Page 1](Crash_Overview_Dashboard.png)
