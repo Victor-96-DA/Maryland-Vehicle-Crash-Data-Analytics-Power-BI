@@ -76,4 +76,4 @@ What if everything you assumed about vehicle crashes was wrong?
 ### Connect With Me
 - **LinkedIn:** [https://www.linkedin.com/in/victor-olatunji-b62a6a3bb/]
 ## Author
-**Victor Olatunji**
+**Victor Olatunji** (Data Analyst, Excel | SQL | PowerBI)
