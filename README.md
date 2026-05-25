@@ -74,7 +74,7 @@ What if everything you assumed about vehicle crashes was wrong?
 4. Interact with the dashboard using year slicer ✅
 
 #### Connect With Me
-**Gmail:** reachvictorola@gmail.com
+**Gmail:** [reachvictorola@gmail.com](mailto:reachvictorola@gmail.com)
 
 #### Author
 **Victor Olatunji** 
