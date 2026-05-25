@@ -73,7 +73,9 @@ What if everything you assumed about vehicle crashes was wrong?
 3. Open the **.pbix file** in Power BI Desktop
 4. Interact with the dashboard using year slicer ✅
 
-### Connect With Me
-- **LinkedIn:** [https://www.linkedin.com/in/victor-olatunji-b62a6a3bb/]
-## Author
-**Victor Olatunji** (Data Analyst, Excel | SQL | PowerBI)
+#### Connect With Me
+**Gmail:** reachvictorola@gmail.com
+
+**Phone:** +974-55-799-773
+#### Author
+**Victor Olatunji** 
