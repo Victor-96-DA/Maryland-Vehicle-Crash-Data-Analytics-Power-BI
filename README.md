@@ -76,6 +76,5 @@ What if everything you assumed about vehicle crashes was wrong?
 #### Connect With Me
 **Gmail:** reachvictorola@gmail.com
 
-**Phone:** +974-55-799-773
 #### Author
 **Victor Olatunji** 
